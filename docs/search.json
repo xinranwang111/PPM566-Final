@@ -2,8 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Abstrast",
+    "title": "Home",
     "section": "",
-    "text": "This project …"
+    "text": "This project serves as a continuation of my midterm project, which investigates geotemporal mortality patterns in the United States before (2014-2019) and during COVID-19 (2020-2023) pandemic.\nHere, I extend the analysis to worldwide using the mortality data from the WHO to evaluate global geotemporal mortality patterns. Detailed data processing pipeline can be found here."
+  },
+  {
+    "objectID": "data_processing.html",
+    "href": "data_processing.html",
+    "title": "Data Processing",
+    "section": "",
+    "text": "Here, parts 4-6 of ICD-10 mortality data (corresponding to 2013 onward), as well as corresponding country codes, country-years availability, reference population and live births, were downloaded from WHO."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Background. COVID-19\nEDA. CO\nAnalysis. CO"
+  },
+  {
+    "objectID": "intro.html#introduction",
+    "href": "intro.html#introduction",
+    "title": "Introduction",
+    "section": "",
+    "text": "Background. COVID-19\nEDA. CO\nAnalysis. CO"
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Results",
+    "section": "",
+    "text": "Result 1. CO\nResult 2. CO\nResult 3. CO\nResult 4. CO\nResult 5. CO"
   }
 ]
