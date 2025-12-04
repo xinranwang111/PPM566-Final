@@ -1,9 +1,0 @@
----
-title: "Home Page"
----
-
-Welcome. You’ve arrived. To where, exactly, is up for interpretation.
-
-::: centered-text
-![HOOOAAAH](images/cat.png){width="300"}
-:::
